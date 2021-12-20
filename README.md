@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/erikergon/Erik-Test-Project/_apis/build/status/erikgrabben.js-e2e-express-server?branchName=main)](https://dev.azure.com/erikergon/Erik-Test-Project/_build/latest?definitionId=1&branchName=main)
 ---
 page_type: sample
 languages:
